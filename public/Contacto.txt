@@ -1,0 +1,10 @@
+
+             
+                Nombre:pablo
+                Email:pablito@ipchile.cl
+                Mensaje:Comentario de pablito clavo un clavito
+                ********************************
+                Nombre:Elvis
+                Email:elvistec@ipchile.cl
+                Mensaje:comentario de elvistec
+                ********************************
